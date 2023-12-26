@@ -1,4 +1,4 @@
-## Real-Time Chat Website with MERN Stack, Socket.io, with Styled Components
+## Real-Time Chat webApp with MERN Stack, Socket.io, with Styled Components
 
 ### Technologies Used
 - MERN stack (MongoDB, Express.js, React.js, and Node.js)
